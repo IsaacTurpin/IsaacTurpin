@@ -10,4 +10,4 @@
 ### Languages and Tools I use:
 :heavy_plus_sign: Unity, C# <br/>
 :heavy_plus_sign: Unreal Engine 5, C++ <br/>
-:heavy_plus_sign: Github / Gitkraken <br/>
+:heavy_plus_sign: GitHub / GitKraken <br/>

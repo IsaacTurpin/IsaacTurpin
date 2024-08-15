@@ -5,7 +5,7 @@
 <br/>
 :purple_circle: Alongside this I am also working on various solo projects to sharpen my skills in both Unity and Unreal, with my current focus being multiplayer programming <br/>
 <br/>
-:purple_circle: Reach me at isaac.turpin2@gmail.com <br/>
+:purple_circle: My portfolio: https://isaacturpin2.wixsite.com/isaacturpin <br/>
 
 ### Languages and Tools I use:
 :heavy_plus_sign: Unity, C# <br/>

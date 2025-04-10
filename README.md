@@ -1,9 +1,9 @@
 # Hi there, I'm Isaac
 
-### I am a Games Technology BSc (Hons) graduate from UWE Bristol, and I am passionate about making games! I am always working on new projects in both Unity and Unreal to improve my programming and game making skills. <br/> 
-:purple_circle: I am currently working on a collaborative project as part of the team at OnBoardGames, check out the current public demo here: https://github.com/Ffishly/Zombie-Arcade <br/>
+### I am a Games Technology BSc (Hons) graduate from UWE Bristol, and a Software Developer at the University of Bath. <br/> 
+:purple_circle: I am currently working on a collaborative project as part of the team at OnBoardGames, check out the current public demo here: https://onboardgames.itch.io/zombie-arcade <br/>
 <br/>
-:purple_circle: Alongside this I am also working on various solo projects to sharpen my skills in both Unity and Unreal, with my current focus being multiplayer programming <br/>
+:purple_circle: I am also working full-time at the University of Bath, alongside completing a Software Developer (Level 4) apprenticeship <br/>
 <br/>
 :purple_circle: My portfolio: https://isaacturpin2.wixsite.com/isaacturpin <br/>
 
@@ -11,3 +11,4 @@
 :heavy_plus_sign: Unity, C# <br/>
 :heavy_plus_sign: Unreal Engine 5, C++ <br/>
 :heavy_plus_sign: GitHub / GitKraken <br/>
+:heavy_plus_sign: LabVIEW <br/>

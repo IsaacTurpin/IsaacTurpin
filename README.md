@@ -12,3 +12,4 @@
 :heavy_plus_sign: Unreal Engine 5, C++ <br/>
 :heavy_plus_sign: GitHub / GitKraken <br/>
 :heavy_plus_sign: LabVIEW <br/>
+:heavy_plus_sign: Python <br/>
